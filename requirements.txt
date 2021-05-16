@@ -1,0 +1,6 @@
+selenium
+requests
+json
+urllib3
+csv
+lxml
